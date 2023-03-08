@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "You are currently in:" $pwd
+echo "You are currently in:${PWD}" 
